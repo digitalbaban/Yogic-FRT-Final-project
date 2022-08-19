@@ -1,6 +1,6 @@
 Here I have created a website of Yoga coaching classes for students.
 
-##My website URL Link- https://shiksha.z13.web.core.windows.net/
+##My website URL Link- https://blue-stone-0e6754610.1.azurestaticapps.net/
 
 Programming Language - HTML,CSS,JAVASCRIPT
 
