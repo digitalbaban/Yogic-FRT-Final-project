@@ -21,6 +21,7 @@ Primary Azure Technology : Azure Static Web Apps
 Other Azure Technologies : App Service
 
 #Demo sceenshoths of my website are-
+-----
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/67642827/185625888-fe60cbd5-fe94-4349-ac2f-58b86e80fd6a.png)
 --------
